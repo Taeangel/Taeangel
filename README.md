@@ -1,16 +1,14 @@
-### Hi there 👋
+### WelcomeMy Space! 🙌 😊 😆
 
-<!--
-**Taeangel/Taeangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hi there. I'm Juhan song, a ios developer from Republic of korea
+- 🐻 Yagom Academy iOS Career Stater Camp 5rd
+- 💻 I am currently studying ios development.
 
-Here are some ideas to get you started:
+Tech Stack    
+🛠 UIKit SwiftUI Combine Rxswift 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interest in   
+🧐 Ribs TCA
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeangel&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeangel&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
+
