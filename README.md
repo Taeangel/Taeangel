@@ -8,7 +8,7 @@ Tech Stack
 🛠 UIKit SwiftUI Combine Rxswift 
 
 Interest in   
-🧐 Ribs TCA
+🧐 VIP
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeangel&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeangel&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
 
